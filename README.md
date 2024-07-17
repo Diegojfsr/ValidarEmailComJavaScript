@@ -1,4 +1,4 @@
-### ValidarEmailComJavaScript
+### Validar Email Com JavaScript
 <!--Como validar um e-mail utilizando JavaScript e regex.-->
 
 Bora aprender um poquinho sobre regex em JavaScript e como validar e-mails!?📚  
