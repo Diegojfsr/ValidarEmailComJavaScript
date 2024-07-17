@@ -1,5 +1,5 @@
 ### ValidarEmailComJavaScript
-<!--Como validar um e-mail utilizando JavaScript e regex.--
+<!--Como validar um e-mail utilizando JavaScript e regex.-->
 
 Bora aprender um poquinho sobre regex em JavaScript e como validar e-mails!?📚  
 Usando JavaScript e regex, você pode garantir que o e-mail inserido pelo usuário atende a um formato padrão.
