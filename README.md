@@ -20,3 +20,9 @@ Confira todo o meu passo a passo em: 👀
 [Validação de e-mail com JavaScript]()  
 [Como validar CPF, CNPJ e Email com Expressões Regulares (REGEX)]()  
 [Validação simples de e-mail usando expressões regulares (regex) em JS.]()  
+
+
+
+### 🤝 Contribuindo
+Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
+saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
