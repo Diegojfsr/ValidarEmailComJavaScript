@@ -7,7 +7,7 @@ Existem expressões regulares avançadas que funcionam para diversos casos, por�
 
 Então mãos a obra!👊  
 Confira todo o meu passo a passo em: 👀  
-[🌐Verificar Datas Com JavaScript](https://medium.com/@diegojfsr/valida%C3%A7%C3%A3o-de-e-mail-com-javascript-a284614766a0)
+[🌐Validação de e-mail com JavaScript](https://medium.com/@diegojfsr/valida%C3%A7%C3%A3o-de-e-mail-com-javascript-a284614766a0)
 
 ### 🛠 Tecnologias Utilizadas
 - VS Code
